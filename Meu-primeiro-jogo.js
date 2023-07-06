@@ -1,7 +1,7 @@
 ;; let personagem
 let grama
 
-let tamanho = 64
+
 
 let velocidade = 64
 
